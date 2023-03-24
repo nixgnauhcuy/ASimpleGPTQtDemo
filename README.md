@@ -17,7 +17,11 @@
 
 ![Error](/assert/Error.gif)
 
+### 对话
+
 ![Chat](/assert/Chat.gif)
+
+### 生成图片
 
 ![creatImg](/assert/creatImg.gif)
 
